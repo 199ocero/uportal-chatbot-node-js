@@ -18,6 +18,7 @@
   <img src="images/get_started.png" style="max-width: 100%;">
   <img src="images/announcement.png" style="max-width: 100%;">
   <img src="images/personal_information.png" style="max-width: 100%;">
+  <img src="images/faqs.png" style="max-width: 100%;">
 </div>
 UPortal is a free access to university portal. The students that don't have enough money to buy load can use this chatbot to check announcements from UPortal(school portal) and profile information. 
 
