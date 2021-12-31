@@ -12,8 +12,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<summary>Get Started</summary>
 <div align="center">
   <img src="images/get_started.png" style="max-width: 100%;">
   <img src="images/announcement.png" style="max-width: 100%;">
