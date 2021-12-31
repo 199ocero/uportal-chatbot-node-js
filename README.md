@@ -13,12 +13,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- <summary>Login Page</summary>
-<img src="images/login_page.png" style="max-width: 100%;">
-<summary>Instructor Portal</summary>
-<img src="images/instructor_portal.png" style="max-width: 100%;">
-<summary>Student Portal</summary>
-<img src="images/student_portal.png" style="max-width: 100%;"> -->
+<summary>Get Started</summary>
+<img src="images/get_started.png" style="max-width: 100%;">
 
 UPortal is a free access to university portal. The students that don't have enough money to buy load can use this chatbot to check announcements from UPortal(school portal) and profile information. 
 
@@ -28,9 +24,6 @@ UPortal is a free access to university portal. The students that don't have enou
 
 ### Built With
 
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
 * [Node.js](https://nodejs.org)
 
 
@@ -47,24 +40,19 @@ This is the instructions on setting up the project locally. To get a local copy 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/199ocero/u-portal.git
+   git clone https://github.com/199ocero/uportal-chatbot-node-js.git
    ```
-2. Install NPM packages
+2. Create account in Heroku
+4. Create new app
+5. Download and install Heroku CLI
+6. Open the project folder you have cloned
+7. Login to your heroku account using CLI in vscode terminal
+8. Upload source code to created app in Heroku
    ```sh
-   npm install
-   npm run dev
-   ```
-3. Migrate Database
-   ```sh
-   php artisan migrate
-   ```
-4. Run Seeder
-   ```sh
-   php artisan db:seed
-   ```
-5. Run the project
-   ```sh
-   php artisan serve
+   git init
+   git add .
+   git commit -m "My first commit"
+   git push heroku master
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
