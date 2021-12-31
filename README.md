@@ -14,7 +14,7 @@
 ## About The Project
 
 <summary>Get Started</summary>
-<img src="images/get_started.png" style="max-width: 100%;" width="100px">
+<img src="images/get_started.png" style="max-width: 100%;">
 
 UPortal is a free access to university portal. The students that don't have enough money to buy load can use this chatbot to check announcements from UPortal(school portal) and profile information. 
 
